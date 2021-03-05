@@ -2,7 +2,7 @@
 
 Code for the Programming with Data module coursework, including:
 
-- Creating of a function to generate n number of records (according to a predefined specification for the data)
+- Creating a function to generate n number of records (according to a predefined specification for the data)
 
 - Running analytics to search for and plot abnormal results and creating frequency histograms
 
